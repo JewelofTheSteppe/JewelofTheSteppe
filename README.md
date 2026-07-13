@@ -3,5 +3,9 @@
 </div>
 
 ### Languages
+$\color{#FFDB00}{\text{Python!}}$
+
+$\color{#F57D1F}{\text{Rust!}}$
+
 $\color{#ff80e4}{\text{Gleam!}}$
 
