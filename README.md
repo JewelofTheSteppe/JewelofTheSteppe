@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="name1.svg" alt="name" width="2500" height="556">
+  <img src="name1.svg" alt="name" width="1000">
 </div>
 
 ### Languages
